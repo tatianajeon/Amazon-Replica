@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.sign-in-box {
+    width: 400px;
+    border: 1px solid lightgrey;
+    padding: 30px;
+    margin: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
